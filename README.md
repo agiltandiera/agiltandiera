@@ -1,4 +1,5 @@
 ### Hi there!
+![](https://visitor-badge.glitch.me/badge?page_id=ahmadfma)
 
 - 🌱 I'm Agil, currently studying in Informatics Engineering Hasanuddin University (specially as Artificial Intelligence Student)
 - 📫 reach me on www.linkedin.com/in/novrinda-agil-tandiera
