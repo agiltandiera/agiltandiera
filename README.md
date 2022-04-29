@@ -3,7 +3,7 @@
 I'm Agil, currently studying in Informatics Engineering Hasanuddin University (specially as Artificial Intelligence Student)
 - reach me on www.linkedin.com/in/novrinda-agil-tandiera
 
-<img alt="Agil's Github Statistic" src="https://github-readme-stats.vercel.app/api?username=agiltandiera&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img alt="Agil's Github Statistic" src="https://github-readme-stats.vercel.app/api?username=agiltandiera&&show_icons=true&theme=radical">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agiltandiera&&show_icons=true&theme=radical)
 
